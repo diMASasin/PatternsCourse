@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f75e0a989d66df54ab428e5f2e0f1d04, type: 3}
+  m_Name: PassiveAbilityStatsConfig
+  m_EditorClassIdentifier: 
+  <Agility>k__BackingField:
+    <Strength>k__BackingField: 1
+    <Intelligence>k__BackingField: 1
+    <Agility>k__BackingField: 2
+  <Strength>k__BackingField:
+    <Strength>k__BackingField: 3
+    <Intelligence>k__BackingField: 1
+    <Agility>k__BackingField: 1
+  <Intelligece>k__BackingField:
+    <Strength>k__BackingField: 1
+    <Intelligence>k__BackingField: 4
+    <Agility>k__BackingField: 1
