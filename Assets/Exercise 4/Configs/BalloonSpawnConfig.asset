@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc5e96f2e7d65f4884a8712a4772d0d, type: 3}
+  m_Name: BalloonSpawnConfig
+  m_EditorClassIdentifier: 
+  _ballonColorConfigs:
+  - <BalloonColor>k__BackingField: 0
+    <BalloonPrefab>k__BackingField: {fileID: 7301602513078732548, guid: c56f9d4bf25a8a54bb7fb0572d75c886, type: 3}
+    <Amount>k__BackingField: 3
+  - <BalloonColor>k__BackingField: 1
+    <BalloonPrefab>k__BackingField: {fileID: 7301602513078732548, guid: 16e7922978a90b44395a103e62b18c3a, type: 3}
+    <Amount>k__BackingField: 4
+  - <BalloonColor>k__BackingField: 2
+    <BalloonPrefab>k__BackingField: {fileID: 7301602513078732548, guid: bfc3c4c7758208c4eaea67e6c5d4bb14, type: 3}
+    <Amount>k__BackingField: 5
+  <Columns>k__BackingField: 5
+  <Spacing>k__BackingField: {x: 1, y: 1}
